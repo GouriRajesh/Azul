@@ -1,0 +1,75 @@
+body {
+  background-color: #ff9292; /* fallback for old browsers */
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  color: #0a81ab;
+  text-align: center;
+}
+.student-profile .card {
+  border-radius: 10px;
+}
+
+.student-profile .card .card-header .profile_img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  margin: 10px auto;
+  border: solid #ccc;
+  border-radius: 50%;
+}
+
+.student-profile .card h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.student-profile .card p {
+  font-size: 16px;
+  color: #000;
+}
+
+.student-profile .table td {
+  font-size: 14px;
+  padding: 5px 10px;
+  color: black;
+  font-weight: 300;
+}
+.inp {
+  outline: none;
+  width: 100%;
+  border-radius: 5px;
+  border: transparent;
+  height: 30px;
+  text-align: center;
+}
+#tab {
+  background-color: #a5e1ad;
+  text-align: left;
+}
+#he {
+  text-align: center;
+  line-height: 27px;
+  color: #04009a;
+  font-style: italic;
+  padding: 10pt;
+  text-decoration: underline;
+}
+#btn {
+  width: 150px;
+  background-color: #ff9292;
+  border: none;
+  outline: none;
+  height: 49px;
+  border-radius: 49px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 10px 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+#btn:hover {
+  background-color: #0a81ab;
+}
