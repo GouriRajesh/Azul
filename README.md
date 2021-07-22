@@ -42,4 +42,5 @@ Azul is an all-in-one application for functionalities regarding student life. In
 <li> After creating your Razor Pay account, customize your 'Pay Button' and update the script tag in the HOME.PHP file. 
 <li> Click on the Admin button next to Apache Server and change the path in the browser to the location of your files and start the application with the INDEX.PHP file.
 
+![Screenshot (1346)](https://user-images.githubusercontent.com/64693139/126604510-e4b17be7-1ed9-4a09-91aa-f26d109ce0fd.png)
 
