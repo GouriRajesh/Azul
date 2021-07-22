@@ -40,6 +40,6 @@ Azul is an all-in-one application for functionalities regarding student life. In
 <li> Host the chat-application files (index.html, main.css and app.js) under public folder using Google Firebase and update the link of your website in the HOME.PHP file.
 <li> After creating a new database for your project in MySQL update the email, password and other necessary fields in the project files.
 <li> After creating your Razor Pay account, customize your 'Pay Button' and update the script tag in the HOME.PHP file. 
-<li> Click on the Admin button next to Apache Server and change the path in the browser to the location of your files and start the applicatio with the INDEX.PHP file.
+<li> Click on the Admin button next to Apache Server and change the path in the browser to the location of your files and start the application with the INDEX.PHP file.
 
 
